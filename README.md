@@ -28,4 +28,3 @@ This code runs the project on an attatched webcam to detect if an object is recy
 
 ## Video Link
 https://canva.link/yt47olguah389yb
-
