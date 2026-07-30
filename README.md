@@ -1,4 +1,3 @@
-<img width="2560" height="1600" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/a45a10da-808a-4bfc-986f-6b989615dc9c" />
 # recycling-sorting
 
 In this project, the jetson inference was used to detect is an object can be recycled or not. In our current world, manual trash sorting is, inaccurate, and unsafe in some environments. There is an need for automatic trash sorting using an AI detection trash sorter. With respect to human health and hygiene, as well as the cleanliness of the environment, the effectiveness of garbage sorting is very important. , Many people view trash sorting as a highly time-consuming and difficult process. To overcome this, AI trash sorting detectors would prove to be highly efficient. This project helps solve our current real world problem in a volatile evolving society.
