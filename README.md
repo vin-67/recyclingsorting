@@ -26,4 +26,6 @@ python3 /home/nvidia/jetson-inference/python/examples/imagenet.py --model=/home/
 
 This code runs the project on an attatched webcam to detect if an object is recyclable or not
 
+## Video Link
+https://canva.link/yt47olguah389yb
 
